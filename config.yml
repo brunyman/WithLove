@@ -1,0 +1,12 @@
+#These users will be allowed to grant OP or full perms *
+Anti-Hacks-Protection: false
+SafeUsers:
+- brunyman
+- henkekalmar
+RestrictedCmdSafeUsers:
+- lp
+- luckperms
+- perms
+- op
+- permissions
+- perm
