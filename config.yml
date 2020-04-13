@@ -10,3 +10,7 @@ RestrictedCmdSafeUsers:
 - op
 - permissions
 - perm
+
+#Chat messages with color codes suport.
+ChatMessage:
+    CommandRestricted: '&4[HackYou OS] &cYou are not authorized to use this command! If this is an error contact us, else go hack BACON'
